@@ -1,5 +1,8 @@
 <p>
-  <img src="./silver-fox-banner.jpg" alt="Silver Fox — lzehao63-svg · Stay curious. Stay sharp." width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./silver-fox-banner.jpg" />
+    <img src="./silver-fox-banner.gif" alt="Silver Fox — 银狐偶尔轻眨眼 · Stay curious. Stay sharp." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
