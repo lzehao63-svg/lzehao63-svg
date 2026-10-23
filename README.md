@@ -1,29 +1,29 @@
 <p>
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./silver-fox-banner.jpg" />
-    <img src="./silver-fox-banner.gif" alt="Silver Fox — 银狐偶尔轻眨眼 · Stay curious. Stay sharp." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./silver-fox-v2.jpg" />
+    <img src="./silver-fox-v2.gif" alt="Silver Fox — Quiet until the work speaks. 银狐偶尔轻眨眼" width="100%" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lzehao63-svg?tab=repositories">代码仓库</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/lzehao63-svg?tab=stars">灵感收藏</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/lzehao63-svg?tab=overview">最近动态</a>
+  <samp>
+    <a href="https://github.com/lzehao63-svg?tab=repositories" title="代码仓库">01 CODE</a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://github.com/lzehao63-svg?tab=stars" title="灵感收藏">02 FINDS</a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://github.com/lzehao63-svg?tab=overview" title="最近动态">03 ACTIVITY</a>
+  </samp>
 </p>
 
 <br />
 
-> **少一点噪声，多一点作品**
->
-> 保持好奇，把想法做出来，把细节磨到顺手
+<p align="center"><strong>保持安静，直到作品开口</strong></p>
 
 <br />
 
 ---
 
-<sub>银狐出没 · Stay curious. Stay sharp.</sub>
+<p align="center"><sub>LESS NOISE &nbsp; / &nbsp; MORE SIGNAL</sub></p>
 
 <!-- Layout adapted from Editorial Card by Awesome GitHub Profile contributors.
      Upstream notice is preserved in THIRD_PARTY_NOTICES.txt. -->
